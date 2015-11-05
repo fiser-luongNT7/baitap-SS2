@@ -1,8 +1,8 @@
 pen
-but muc,
+but muc
 pencil
-but chi,
+but chi
 rulers
-nhung cai thuoc ke,
+nhung cai thuoc ke
 book
-sach vo,
+sach vo
