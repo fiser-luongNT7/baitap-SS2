@@ -6,6 +6,3 @@ rulers
 nhung cai thuoc ke,
 book
 sach vo,
-hello
-xin chao,
- chao hoi,
